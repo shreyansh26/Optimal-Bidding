@@ -28,3 +28,9 @@ For more details, refer to `Problem Statement.pdf`.
 # Aproaches used
 
 We tried two approaches to find *bid quantity* and *bid price*. The first one was based on time series analysis, while the second was based on optimisation through Stochastic Gradient Descent. We used the second approach to make the final submission.
+
+# Team Memebers
+
+* [Abhishek Sharma](https://github.com/abhishek0318)
+* [Abhinav Gupta](https://github.com/abhigupta768)
+* [Shreyansh Singh](https://github.com/shreyansh26)
